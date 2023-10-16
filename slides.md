@@ -61,6 +61,6 @@ What are we going to do
 ---
 
 # Docker - Container vs VM
+new image
+<img width="1012" alt="Screenshot 2023-10-16 at 9 19 31" src="https://github.com/ezmldev/mlops-course-slides/assets/464122/1e7e589d-bdd5-4bd1-bef3-6adb3a11cacd">
 
-![](https://hackmd-prod-images.s3-ap-northeast-1.amazonaws.com/uploads/upload_31cd7db5f8ed9d86dd5d060cd620efea.jpg?AWSAccessKeyId=AKIA3XSAAW6AWSKNINWO&Expires=1697444232&Signature=UoMGGTSF2G6UUE%2B2KmREPbW%2FGdI%3D)
-![](https://hackmd.io/_uploads/HJjNAD9Wp.jpg)
