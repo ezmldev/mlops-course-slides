@@ -60,6 +60,6 @@ What are we going to do
 
 ---
 
-# Docker intro
+# Docker - Container vs VM
 
 ![](https://hackmd.io/_uploads/HJjNAD9Wp.jpg)
