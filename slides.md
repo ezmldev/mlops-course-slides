@@ -60,3 +60,6 @@ What are we going to do
 
 ---
 
+# Docker intro
+
+![](https://hackmd.io/_uploads/HJjNAD9Wp.jpg)
